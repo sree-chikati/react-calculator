@@ -1,0 +1,20 @@
+/* ---- IMPORTS ---- */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Slab:wght@300&display=swap');
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+*/
+
+.result {
+    height: 60px;
+    background-color: white;
+    width: 100%;
+}
+  
+  .result p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    margin: 5px;
+    color: black;
+  
+}

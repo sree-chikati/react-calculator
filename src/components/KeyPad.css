@@ -1,0 +1,18 @@
+/* ---- IMPORTS ---- */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Slab:wght@300&display=swap');
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+*/
+
+.button {
+    display: block;
+    background-color: #bbb;
+}
+  
+  button {
+    font-family: 'Open Sans', sans-serif;
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+}
